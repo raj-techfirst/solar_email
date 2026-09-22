@@ -1,0 +1,29 @@
+- generic [active] [ref=e1]:
+  - img "TechFirst ERP" [ref=e2]
+  - text: CRM & ERP for Solar Businesses
+  - paragraph [ref=e3]: Hi Mr. XYzzz,
+  - paragraph [ref=e4]: More business is great. Managing the growing workflow is the challenge.
+  - paragraph [ref=e5]: Leads. Follow-ups. Site visits. Quotations. Orders. Installations. Inventory. Payments. Sometimes it becomes hectic to manage.
+  - paragraph [ref=e6]: When these start moving across different people, sheets and systems, something eventually gets missed.
+  - paragraph [ref=e7]: Thats where technology solutions for business growth arrive.
+  - paragraph [ref=e8]: Our Solar CRM + ERP connects the complete process in one workflow.
+  - text: LEAD → FOLLOW-UP → QUOTATION → ORDER INSTALLATION → INVENTORY → PAYMENT
+  - paragraph [ref=e9]: Don't take our word for it. See it in action.
+  - link "Book a 15-Minute Live Demo" [ref=e10] [cursor=pointer]:
+    - /url: https://www.techfirsterp.com/
+  - text: TECHFIRST CRM DASHBOARD
+  - img "TechFirst ERP Dashboard Preview" [ref=e11]
+  - paragraph [ref=e12]: Best regards,
+  - paragraph [ref=e13]: Dhruvi Kareliya
+  - paragraph [ref=e14]: TechFirst ERP Pvt. Ltd.
+  - paragraph [ref=e15]: CRM & ERP Solutions for Growing Businesses
+  - paragraph [ref=e16]:
+    - link "+91 8906 311 311" [ref=e17] [cursor=pointer]:
+      - /url: tel:+918906311311
+    - text: "|"
+    - link "sales@techfirsterp.com" [ref=e18] [cursor=pointer]:
+      - /url: mailto:sales@techfirsterp.com
+    - text: "|"
+    - link "www.techfirsterp.com" [ref=e19] [cursor=pointer]:
+      - /url: https://www.techfirsterp.com/
+  - text: You are receiving this email because of a prior interest in CRM/ERP solutions for solar businesses. © 2026 TechFirst ERP Pvt. Ltd. All rights reserved.
